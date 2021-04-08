@@ -1,7 +1,7 @@
 # Discord-Bot
 Playing around with discord.py on my personal server.
 
-This is a discord bot that I've been working on for one of the Discord servers that I own. It's original development was an inside joke, but I used it to mess around with 
+This is a bot that I've been working on for one of the Discord servers that I own. It's original development was an inside joke, but I used it to mess around with 
 discord.py. It is able to:
 
 keep a list of quotes and add, subtract, print, or recall them;
